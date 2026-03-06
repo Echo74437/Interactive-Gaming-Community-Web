@@ -1,1 +1,1 @@
-# Interactive-Gaming-Community-Web
+Original Repository: https://github.com/jstinapay/checkpoint
